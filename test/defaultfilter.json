@@ -1,0 +1,10 @@
+{
+  "name": "DefaultFilter",
+  "version": "1.0.0",
+  "description": "List of default filters",
+  "author": "Ronald Perlas",
+  "dependencies": {
+    "defaultfilter1": "*",
+    "defaultfilter2": "*"
+  }
+}
